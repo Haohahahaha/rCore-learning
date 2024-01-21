@@ -4,7 +4,7 @@
 
 可根据 GitHub Commits 进行追踪更新。
 
-思考笔记在我的博客网站-[OS学习](https://os.haohaha.cn)中。
+思考笔记在我的[博客 - rCore笔记](https://os.haohaha.cn/rcore/notes)中。
 
 张浩睿
 
